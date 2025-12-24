@@ -40,6 +40,8 @@ JavaScript (ES6) – App logic and DOM manipulation
 
 FontAwesome – Icons
 
+SweetAlert2 (Swal) – Alerts, confirmations, and user feedback
+
 Local Storage – Data persistence
 
 ---
