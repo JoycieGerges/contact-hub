@@ -18,7 +18,7 @@ Check out the live website here:
 
 ⭐ Mark contacts as favorites
 
-🚨 Emergency contacts labeling
+🚨 Emergency & favorites contacts labeling
 
 📊 Real-time counters (Total, Favorites, Emergency)
 
